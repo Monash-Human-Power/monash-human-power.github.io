@@ -1,0 +1,68 @@
+/* Themify Customize Styling */
+h1 {	
+	font-family:Open Sans;	font-weight:bold;
+	font-size:60px;
+ 
+}
+#headerwrap {	
+	background-color: #2c2c2c; 
+}
+#headerwrap.fixed-header, .transparent-header #headerwrap.fixed-header {	
+	background-color: rgba(43,43,43,0.76); 
+}
+#site-logo, #site-logo a, .header-horizontal #site-logo, .header-minbar #site-logo, .header-leftpane #site-logo, .header-slide-out #site-logo, .boxed-compact #site-logo, .header-top-bar #site-logo {	
+	font-family:Open Sans;	font-weight:bold;
+	font-size:24px;
+
+	color: #ffffff; 
+}
+#site-logo, #site-logo a, .header-horizontal #site-logo, .header-minbar #site-logo, .header-leftpane #site-logo, .header-slide-out #site-logo, .boxed-compact #site-logo, .header-top-bar #site-logo img {		width: 80px; 
+}
+#site-logo, #site-logo a, .header-horizontal #site-logo, .header-minbar #site-logo, .header-leftpane #site-logo, .header-slide-out #site-logo, .boxed-compact #site-logo, .header-top-bar #site-logo a {		width: 80px;
+	color: #ffffff; 
+}
+#main-nav a {	
+	font-family:Open Sans;	font-weight:300;
+	font-size:16px;
+ 
+}
+#main-nav a, #main-nav > li > a {	
+	color: #ffffff; 
+}
+#main-nav a:hover, #main-nav > li > a:hover {	
+	color: #efefef; 
+}
+#main-nav .current_page_item a, #main-nav .current-menu-item a, #main-nav > .current_page_item > a, #main-nav > .current-menu-item > a {	
+	color: #ffffff; 
+}
+#main-nav .current_page_item a:hover,  #main-nav .current-menu-item a:hover {	
+	color: #efefef; 
+}
+#footerwrap {	
+	background-color: #292929; 
+}
+#footer {	
+	color: #ffffff; 
+}
+#footer a {	
+	color: #ffffff; 
+}
+@media screen and (max-width: 976px) { /* Themify Customize Styling */
+#site-logo, #site-logo a, .header-horizontal #site-logo, .header-minbar #site-logo, .header-leftpane #site-logo, .header-slide-out #site-logo, .boxed-compact #site-logo, .header-top-bar #site-logo img {		width: 80px; 
+}
+#site-logo, #site-logo a, .header-horizontal #site-logo, .header-minbar #site-logo, .header-leftpane #site-logo, .header-slide-out #site-logo, .boxed-compact #site-logo, .header-top-bar #site-logo a {		width: 80px;
+	color: #ffffff; 
+}
+ }@media screen and (max-width: 768px) { /* Themify Customize Styling */
+#site-logo, #site-logo a, .header-horizontal #site-logo, .header-minbar #site-logo, .header-leftpane #site-logo, .header-slide-out #site-logo, .boxed-compact #site-logo, .header-top-bar #site-logo img {		width: 80px; 
+}
+#site-logo, #site-logo a, .header-horizontal #site-logo, .header-minbar #site-logo, .header-leftpane #site-logo, .header-slide-out #site-logo, .boxed-compact #site-logo, .header-top-bar #site-logo a {		width: 80px;
+	color: #ffffff; 
+}
+ }@media screen and (max-width: 480px) { /* Themify Customize Styling */
+#site-logo, #site-logo a, .header-horizontal #site-logo, .header-minbar #site-logo, .header-leftpane #site-logo, .header-slide-out #site-logo, .boxed-compact #site-logo, .header-top-bar #site-logo img {		width: 80px; 
+}
+#site-logo, #site-logo a, .header-horizontal #site-logo, .header-minbar #site-logo, .header-leftpane #site-logo, .header-slide-out #site-logo, .boxed-compact #site-logo, .header-top-bar #site-logo a {		width: 80px;
+	color: #ffffff; 
+}
+ }
